@@ -32,8 +32,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicit and Explicit Intents”.
-Developed by: Y Chethan
-Registeration Number : 212220230008
+Developed by: J . RITHANIEPRIYANKA
+Registeration Number : 212220230039
 */
 ```
 ### <ins>Impicit Intent</ins>
@@ -223,6 +223,9 @@ public class MainActivity2 extends AppCompatActivity {
 
 ![and 2](https://user-images.githubusercontent.com/75235132/165336923-015e6ec3-af5f-4e2b-960c-8a085398cc15.png)
 
+![JAVA EXP2-Z](https://user-images.githubusercontent.com/75235132/165337950-cc44f674-e6fa-454c-a897-20e2cce34b68.png)
+
+![image](https://user-images.githubusercontent.com/75235132/165337877-c38d38bc-8b98-49a4-bc8f-2c5d95d3055e.png)
 
 ## RESULT:
 
